@@ -1,2 +1,7 @@
-i#!/bin/bash
+#!/bin/bash"
 echo "School"
+:wq
+
+echo "School"
+:wq
+
